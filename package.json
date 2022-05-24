@@ -1,0 +1,14 @@
+{
+  "name": "com.hibzz.frames",
+  "version": "1.1.0",
+  "displayName": "hibzz.frames",
+  "description": "A tool used to record, replay, and analyze GameObject states in a Unity scene for debugging purposes",
+  "author": {
+    "name": "Hibzz Games",
+    "email": "support@hibzz.games",
+    "url": "https://hibzz.games/"
+  },
+  "documentationUrl": "https://github.com/Hibzz-Games/Hibzz.Frames/blob/main/README.md",
+  "changelogUrl": "https://github.com/Hibzz-Games/Hibzz.Frames/commits/",
+  "licensesUrl": "https://github.com/Hibzz-Games/Hibzz.Frames/blob/main/LICENSE.md"
+}
